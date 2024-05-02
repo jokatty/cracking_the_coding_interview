@@ -8,6 +8,7 @@ def is_rotation(s1, s2):
     else:
         return False
 
+
 print(is_rotation('waterbottle', 'erbottlewat'))
 print(is_rotation('foo', 'bar'))
 print(is_rotation('foo', 'foofoo'))
